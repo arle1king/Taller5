@@ -1,0 +1,7 @@
+Cliente: John Doe
+Dirección: 123 Main St
+----------------
+----------------
+Precio Neto:  0
+IVA:          0
+Precio Total: 0
